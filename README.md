@@ -1,6 +1,10 @@
 # musco_portfolio
 
 ### Portfolio
+The description has to change, however the plot you can see depicts the tempo valance and if its major or minor. On french music before 2005.
+
+
+###################UPDATE###############################
 For this portfolio i would like to look at several albums from Nina Kravis
 She is a techno focussed artist, but within this genre she plays alot. And there is alot of variation within the music
 The corpus i am going to look at the first 3 albums she released, the middle three and the last three. It would be intresting to see how her style has transformed. And if there is a clear change in her style whenm covid came along. Maybe this had an affect on the dancibilty or other factors sucs as BPM.
